@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    letter-spacing: 2px;
+    text-align: center;
+    background-image: url('pramod-tiwari-DjVDIZotikY-unsplash.jpg');
+	width: 100%;
+	background-size: cover;
+	color: #fff;
+}
+
+.proger{
+	width: 10%;
+	border: 10px solid #fff;
+	border-radius: 50%;
+	/*margin-left: 45%;
+	margin-top: 50px;*/
+	padding: 20px;
+
+}
+.button{
+	margin-left: 42%;
+	background-color: #FF813F;
+	width: 290px;
+	height: 60px;
+	border-radius: 20px;
+	
+}
